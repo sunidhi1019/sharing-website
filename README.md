@@ -1,3 +1,16 @@
+//3/10/2020
+created By
+Name - Sunidhi Chauhan
+Mumbai
+
+
+//https://getbootstrap.com/
+//https://michalsnik.github.io/aos/
+//https://color.adobe.com/create
+//http://sharethis.com/
+//https://www.w3schools.com/
+//git-respo- https://github.com/sunidhi1019/sharing-website/
+
 # sharing-website
 
 Used Technology - 
